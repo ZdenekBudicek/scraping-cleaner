@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.csv
+*.zip
+*.log
+*.pem
+*.key
+data/
+out/
